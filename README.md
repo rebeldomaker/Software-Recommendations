@@ -5,9 +5,8 @@ Text fil archive for essential software i often recommend to friends and colleag
 These are the essencials I always install on any freshly installed new GNU/Linux distro on a PC. 
 
 ### CLI
-Terminal goodies!
 ```
-sudo apt install nala doas ranger btop lynx rms bpytop git wget fish tealdeer clamav cpufetch hyfetch fastfetch cmatrix hollywood neovim
+sudo apt install nala doas ranger btop lynx rms bpytop git wget fish tealdeer clamav cpufetch hyfetch fastfetch cmatrix hollywood neovim lolcat
 ```
 
 ### GUI
